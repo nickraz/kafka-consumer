@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "mykafka.bootstrapAddress",
+      "type": "java.lang.String",
+      "description": "Kafka bootstrapAddress."
+    },
+    {
+      "name": "mykafka.topic",
+      "type": "java.lang.String",
+      "description": "Топик, из которого будем получать сообщения."
+    },
+    {
+      "name": "mykafka.groupId",
+      "type": "java.lang.String",
+      "description": "groupId - пока не знаю, что это."
+    }
+  ] }

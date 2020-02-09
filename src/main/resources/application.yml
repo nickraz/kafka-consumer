@@ -1,0 +1,6 @@
+mykafka:
+  bootstrapAddress: localhost:9092
+  topic: sql-insert
+  groupId: fooo
+server:
+  port: 9999
